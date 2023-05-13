@@ -1,0 +1,3 @@
+(executable
+ (name simpleTest)
+ (libraries oUnit zarith rsa))
